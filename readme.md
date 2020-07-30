@@ -8,8 +8,6 @@
 -   📫 How to reach me **shajalkumer@gmail.com**
 -   ⚡ Fun fact: I love to play Badminton
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="shajal-kumer.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
