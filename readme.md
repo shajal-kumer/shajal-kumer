@@ -18,7 +18,6 @@
 [<img align="left" alt="Shajal Kumer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -37,7 +36,6 @@
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
 
-<br />
 <br />
 
 <img align="left" alt="Shajal-kumer Github Stats" src="https://github-readme-stats.vercel.app/api?username=shajal-kumer&show_icons=true&hide_border=true" />
