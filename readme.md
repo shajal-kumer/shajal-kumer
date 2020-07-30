@@ -37,8 +37,9 @@
 <img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
 
 <br />
+<br />
 
-<img align="left" alt="Shajal-kumer Github Stats" src="https://github-readme-stats.vercel.app/api?username=shajal-kumer&show_icons=true&hide_border=true" />
+<img align="left" alt="Shajal-kumer Github Stats" src="https://github-readme-stats.vercel.app/api?username=shajal-kumer&show_icons=true" />
 
 [website]: https://shajal-kumer.github.io/
 [twitter]: https://twitter.com/shajal_kumer
