@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, Player!
 
--   🔭 I’m currently Working on Student Information Management System
--   🥅 2020 Goals: leaning Node.js, Express, MongoDB
+-   🔭 I’m currently Working on **Student Information Management System**
+-   🥅 2020 Goals: **leaning Node.js, Express, MongoDB**
 -   💬 Ask me about **JavaScript, SQL**
 -   📫 How to reach me **shajalkumer@gmail.com**
 -   ⚡ Fun fact: I love to play Badminton
