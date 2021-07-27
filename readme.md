@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, Player!
 
--   🔭 I’m currently Working on **PhotoPea - an online photo editor tool**
+-   🔭 I’m currently Working on **PhotoPix - an Online Photo Editor Tool**
 -   🥅 2021 Goals: **React.js, Next.js, TypeScript**
 -   💬 Ask me about **JavaScript, SQL**
 -   📫 How to reach me **shajalkumer@gmail.com**
