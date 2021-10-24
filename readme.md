@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shajal Kumer</h1>
-<h3 align="center">An enthusiastic fresher front-end developer</h3>
+<h3 align="center">A Fresher Front-end Software Engineer with Backend Knowledge</h3>
 
 - 🔭 I’m currently working on [PhotoPix - an Online Photo Editor Tool](https://github.com/shajal-kumer/photopix)
 
