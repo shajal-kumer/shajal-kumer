@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shajal Kumer</h1>
-<h3 align="center">A Fresher Front-end Software Engineer with Backend Knowledge</h3>
-
-- 🔭 I’m currently working on [PhotoPix - an Online Photo Editor Tool](https://github.com/shajal-kumer/photopix)
+<h3 align="center">A Fresher Front-end Developer with Backend Knowledge</h3>
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, SASS, GSAP, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, SASS, JavaScript, React**
 
 - 📫 How to reach me **shajalkumer@gmail.com**
 
